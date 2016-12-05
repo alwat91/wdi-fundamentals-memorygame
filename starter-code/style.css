@@ -2,7 +2,7 @@
 comment. Add your CSS code
 from Unit 1 - 5 below  */
 .board	{
-	height: 50%;
+	height: 80%;
 	width: 50%;
 	display: inline-block;
 }
@@ -51,4 +51,8 @@ a:hover {
 }
 footer {
 	background-color: #808080;
+}
+img {
+	height: 200px;
+	width: 150px;
 }
